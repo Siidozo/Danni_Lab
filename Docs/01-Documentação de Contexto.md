@@ -6,6 +6,8 @@ Por outro lado, a ausência de organização e padronização nos processos de a
 
 # 2. Objetivos
 
+Desenvolver um sistema de controle de estoque e pedidos que centralize o cadastro de produtos, funcionários, pedidos e movimentações de estoque, com interface desktop e backend próprio.
+
 O presente projeto tem como objetivo geral desenvolver um sistema interativo e intuitivo para o rastreamento e a localização rápida de produtos e insumos armazenados em estoque, visando otimizar os processos operacionais e reduzir falhas relacionadas à gestão de materiais.
 
 # 3. Problema de Pesquisa
@@ -14,7 +16,7 @@ O problema central abordado neste projeto refere-se à deficiência na organiza�
 
 # 4. Justificativa
 
-A organização dos processos internos é um fator determinante para a eficiência operacional e para a competitividade das empresas. Uma gestão de estoque estruturada contribui para a melhoria do desempenho das equipes, reduz perdas por extravio ou vencimento de produtos e aumenta a confiabilidade das informações gerenciais.
+A gestão manual de estoque e pedidos, especialmente quando os pedidos chegam por um marketplace externo (Shopee), gera retrabalho, risco de divergência entre o estoque físico e o sistema, e dificuldade de rastrear entradas e saídas de produtos ao longo do tempo. Não havia, até o início deste projeto, uma ferramenta própria que centralizasse essas informações.
 
 Além disso, a implementação de um sistema informatizado de controle proporciona maior padronização dos processos, minimiza erros humanos e favorece a tomada de decisões estratégicas. Dessa forma, o projeto justifica-se pela sua relevância prática e pelo potencial de impacto positivo no desempenho organizacional.
 
